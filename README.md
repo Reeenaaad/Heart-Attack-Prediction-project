@@ -9,7 +9,4 @@ Nowadays, there are many cases of heart attacks, which are blockages in the arte
 conduct a comprehensive statical analysis of heart attack prediction models to identify the most effective predictors and develop a roubust statistical model that accurately predicts the risk of heart attacks in a given population 
 
 # Group Members 
-Lama alqahtani 
-Renad Alrokan
-Sarah Algarny
-Bayan Alghamdi
+Lama alqahtani -Renad Alrokan-Sarah Algarny-Bayan Alghamdi
